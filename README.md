@@ -4,9 +4,9 @@ Remember this? Oc
 
 ## Installation Instructions
 
-1] Install ncurses: sudo apt-get install libncurses5-dev libncursesw5-dev
-2] Compile pong.c
-3] Run
+1. Install ncurses: `sudo apt-get install libncurses5-dev libncursesw5-dev`
+2. Compile pong.c
+3. Run
 
 ## Notes
 
