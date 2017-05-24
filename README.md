@@ -12,11 +12,11 @@ Remember this? Oc
 
 It currently runs only in 80x24 mode, So size your terminal accordinly
 
-Controls |	Player a		Player b
---------------------------------------
-UP			'w'				'o'
-DOWN		's'				'l'
-QUIT		'q'				'q'
+| Controls |	Player a   |	Player b   |
+| -------- |:-------------:|:-------------:|
+| UP	   |	  'w'	   |	  'o'	   |
+| DOWN	   |	  's'	   |	  'l'	   |
+| QUIT	   |	  'q'	   |	  'q'	   |
 
 ### TODO
 - [x] Bare bones
